@@ -53,19 +53,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="rts-brand__wrapper">
-                        <div class="rts-brand__wrapper--text">
-                            <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Hosting solutions
-                                trusted by the owners of <span>2,800,000</span> domains.</h3>
-                            <div class="rts-brand__wrapper--text-review" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
-                                <div class="review">
-                                    <div class="star">Excellent <img src="assets/images/brand/review-star.svg" alt="">
-                                    </div>
-                                </div>
-                                <div class="review__company">
-                                    954 reviews on <img src="assets/images/brand/trust-pilot.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
                         <div class="rts-brand__slider">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
@@ -128,10 +115,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="rts-hosting-type__section">
-                        <h3 class="title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Multiple
-                            Hosting Options</h3>
-                        <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">No matter your hosting
-                            requirements, our platform will fit your needs.</p>
+                        <h3 class="title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Best Solutions, For All Organizations</h3>
+                        <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800"> Have the expertise to work with all organizations in different sectors including.</p>
                         <div class="rts-slider__btn hosting-slider">
                             <div class="slide__btn rts-prev"><i class="fa-light fa-arrow-left"></i></div>
                             <div class="slide__btn rts-next"><i class="fa-light fa-arrow-right"></i></div>
@@ -149,13 +134,10 @@
                             <div class="swiper-slide">
                                 <div class="rts-hosting-type__single">
                                     <div class="hosting-icon">
-                                        <img src="assets/images/hosting/03.svg" alt="">
+                                        <img src="assets/images/__home/education.svg" alt="">
                                     </div>
-                                    <a href="wordpress-hosting.html" class="title">WordPress Hosting</a>
-                                    <p class="excerpt">Manage your WordPress sites easily and more freedom.</p>
-                                    <h6 class="price__start">Starting from $2.95/month</h6>
-                                    <a href="wordpress-hosting.html" class="primary__btn border__btn">See Plan <i
-                                            class="fa-regular fa-long-arrow-right"></i></a>
+                                    <a  class="title">Education</a>
+
                                 </div>
                             </div>
                             <!-- single package end -->
@@ -163,13 +145,9 @@
                             <div class="swiper-slide">
                                 <div class="rts-hosting-type__single">
                                     <div class="hosting-icon">
-                                        <img src="assets/images/hosting/04.svg" alt="">
+                                        <img src="assets/images/__home/investment.svg" alt="">
                                     </div>
-                                    <a href="wordpress-hosting.html" class="title">Web Hosting</a>
-                                    <p class="excerpt">Manage your WordPress sites easily and more freedom.</p>
-                                    <h6 class="price__start">Starting from $2.95/month</h6>
-                                    <a href="wordpress-hosting.html" class="primary__btn border__btn">See Plan <i
-                                            class="fa-regular fa-long-arrow-right"></i></a>
+                                    <a href="wordpress-hosting.html" class="title">Investment</a>
                                 </div>
                             </div>
                             <!-- single package end -->
@@ -177,13 +155,9 @@
                             <div class="swiper-slide">
                                 <div class="rts-hosting-type__single">
                                     <div class="hosting-icon">
-                                        <img src="assets/images/hosting/02.svg" alt="">
+                                        <img src="assets/images/__home/goverment.svg" alt="">
                                     </div>
-                                    <a href="vps-hosting.html" class="title">Vps Hosting</a>
-                                    <p class="excerpt">Manage your WordPress sites easily and more freedom.</p>
-                                    <h6 class="price__start">Starting from $2.95/month</h6>
-                                    <a href="vps-hosting.html" class="primary__btn border__btn">See Plan <i
-                                            class="fa-regular fa-long-arrow-right"></i></a>
+                                    <a href="vps-hosting.html" class="title">Government</a>
                                 </div>
                             </div>
                             <!-- single package end -->
@@ -191,13 +165,39 @@
                             <div class="swiper-slide">
                                 <div class="rts-hosting-type__single">
                                     <div class="hosting-icon">
-                                        <img src="assets/images/hosting/01.svg" alt="">
+                                        <img src="assets/images/__home/real-state.svg" alt="">
                                     </div>
-                                    <a href="shared-hosting.html" class="title">Shared Hosting</a>
-                                    <p class="excerpt">Manage your WordPress sites easily and more freedom.</p>
-                                    <h6 class="price__start">Starting from $2.95/month</h6>
-                                    <a href="shared-hosting.html" class="primary__btn border__btn">See Plan <i
-                                            class="fa-regular fa-long-arrow-right"></i></a>
+                                    <a  class="title">Real Estate</a>
+                                </div>
+                            </div>
+                            <!-- single package end -->
+                            <!-- single package -->
+                            <div class="swiper-slide">
+                                <div class="rts-hosting-type__single">
+                                    <div class="hosting-icon">
+                                        <img src="assets/images/__home/marketing.svg" alt="">
+                                    </div>
+                                    <a  class="title">Marketing</a>
+                                </div>
+                            </div>
+                            <!-- single package end -->
+                            <!-- single package -->
+                            <div class="swiper-slide">
+                                <div class="rts-hosting-type__single">
+                                    <div class="hosting-icon">
+                                        <img src="assets/images/__home/health.svg" alt="">
+                                    </div>
+                                    <a  class="title">Health Care</a>
+                                </div>
+                            </div>
+                            <!-- single package end -->
+                            <!-- single package -->
+                            <div class="swiper-slide">
+                                <div class="rts-hosting-type__single">
+                                    <div class="hosting-icon">
+                                        <img src="assets/images/__home/commerce.svg" alt="">
+                                    </div>
+                                    <a class="title">E-Commerce</a>
                                 </div>
                             </div>
                             <!-- single package end -->
@@ -222,12 +222,10 @@
                 </div>
                 <div class="col-xl-5 col-lg-6">
                     <div class="rts-about__content">
-                        <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">We build Our Business
-                            For Your Success.
+                        <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Curious To Know us?
                         </h3>
                         <p class="description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
-                            Whether you need a simple blog, want to highlight your
-                            business, sell products through an eCommerce.
+                            ROQAY is a software development company Established by the end of 2015 and scaled up over the years. specialized in web sites, Web stores, mobile apps, eLearning solutions, and business applications. We’re experts at what we do, software development is our game.
                         </p>
                         <div class="rts-about__content--single" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
                             <div class="image">
@@ -235,20 +233,11 @@
                                 <img src="assets/images/about/01.svg" alt="">
                             </div>
                             <div class="description">
-                                <h6>Web Hosting</h6>
-                                <p>The most popular hosting plan available and comes at one of the most affordable price
-                                    points.</p>
+                                <h6>innovative solutions</h6>
+                                <p>We are distinguished in the field of design and development with innovative solutions that we provide to make our projects of the highest degree of efficiency and quality.</p>
                             </div>
                         </div>
-                        <div class="rts-about__content--single" data-sal="slide-down" data-sal-delay="600" data-sal-duration="800">
-                            <div class="image bg-2">
-                                <img src="assets/images/about/02.svg" alt="">
-                            </div>
-                            <div class="description">
-                                <h6>Managed WordPress Hosting</h6>
-                                <p>Our Managed WordPress Hosting gives you speed and performance with a full set of features.</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -257,51 +246,14 @@
     </div>
     <!-- ABOUT US END -->
 
-    <!-- SEARCH DOMAIN -->
-    <div class="rts-domain-finder">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-domain-finder__content domain-finder-bg">
-                        <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">A name that looks good on
-                            a billboard.</h3>
-                        <form action="https://hostie-whmcs.themewant.com/cart.php" class="domain-checker" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
-                            <input type="text" id="domain-name" name="query" placeholder="Register a domain name to start" required>
-                            <input type="hidden" name="domain" value="register">
-                            <input type="hidden" name="a" value="add">
-                            <button type="submit" name="domain_type">search domain</button>
-                        </form>
-                        <div class="compare">
-                            <div class="compare__list">
-                                <ul>
-                                    <li data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">Compare:</li>
-                                    <li data-sal="slide-down" data-sal-delay="600" data-sal-duration="800"><span
-                                            class="ext">.com</span> only $6.19</li>
-                                    <li data-sal="slide-down" data-sal-delay="700" data-sal-duration="800"><span
-                                            class="ext">.net</span> only $6.19</li>
-                                    <li data-sal="slide-down" data-sal-delay="800" data-sal-duration="800"><span
-                                            class="ext">.info</span> only $6.19</li>
-                                    <li data-sal="slide-down" data-sal-delay="900" data-sal-duration="800"><span
-                                            class="ext">.org</span> only $6.19</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- SEARCH DOMAIN END -->
 
     <!-- OUR SERVICES -->
     <section class="rts-service section__padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="rts-section text-center w-530">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">We
-                        Provide Hosting Solution</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Select your solution and we will help you narrow down our best
-                        high-speed options to fit your needs.
+                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Services</h3>
+                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Discover all the services we offer to clients
                     </p>
                 </div>
             </div>
@@ -314,12 +266,11 @@
                             <div class="rts-service__single--icon shared__hosting">
                                 <img src="assets/images/service/shared__hosting.svg" alt="">
                             </div>
-                            <a href="shared-hosting.html" class="rts-service__single--title">Shared Hosting</a>
+                            <a  class="rts-service__single--title">Business Application</a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                We develop business applications that meet the needs of various businesses and help them support, improve, and automate their ....
                             </p>
-                            <a href="shared-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
                         <!-- single service end -->
                         <!-- single service -->
@@ -327,12 +278,11 @@
                             <div class="rts-service__single--icon email__hosting">
                                 <img src="assets/images/service/email__hosting.svg" alt="">
                             </div>
-                            <a href="business-mail.html" class="rts-service__single--title">Email Hosting</a>
+                            <a  class="rts-service__single--title">Email Hosting</a>
                             <p class="rts-service__single--excerpt">
                                 The most popular hosting plan available and comes at one of the most.
                             </p>
-                            <a href="business-mail.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
                         <!-- single service end -->
                     </div>
@@ -343,12 +293,11 @@
                             <div class="rts-service__single--icon wordpress__hosting">
                                 <img src="assets/images/service/shared__hosting.svg" alt="">
                             </div>
-                            <a href="wordpress-hosting.html" class="rts-service__single--title">WordPress Hosting</a>
+                            <a  class="rts-service__single--title"> Websites & Web Apps </a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                There is no doubt that websites are the key component for any company to reach its targeted markets and ....
                             </p>
-                            <a href="wordpress-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
                         <!-- single service end -->
                         <!-- single service -->
@@ -356,12 +305,10 @@
                             <div class="rts-service__single--icon dedicated__hosting">
                                 <img src="assets/images/service/dedicated__hosting.svg" alt="">
                             </div>
-                            <a href="dedicated-hosting.html" class="rts-service__single--title">dedicated Hosting</a>
+                            <a  class="rts-service__single--title"> Mobile Applications</a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                Mobile applications are the easiest way to communicate with your clients. With the rapidly increasing life pace, mobile applications ....
                             </p>
-                            <a href="dedicated-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
                         </div>
                         <!-- single service end -->
 
@@ -373,27 +320,23 @@
                             <div class="rts-service__single--icon vps__hosting">
                                 <img src="assets/images/service/vps__hosting.svg" alt="">
                             </div>
-                            <a href="vps-hosting.html" class="rts-service__single--title">VPS Hosting</a>
+                            <a  class="rts-service__single--title">E-Learning & Gamification</a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                At ROQAY, we believe that Education is the key to our future success and the progress of all nations, ....
                             </p>
-                            <a href="vps-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
                         <!-- single service end -->
-                        <!-- single service -->
                         <div class="rts-service__single">
-                            <div class="rts-service__single--icon eccomerce__hosting">
-                                <img src="assets/images/service/eccommerce__hosting.svg" alt="">
+                            <div class="rts-service__single--icon cloud__hosting">
+                                <img src="assets/images/service/cloud__hosting.svg" alt="">
                             </div>
-                            <a href="wordpress-hosting.html" class="rts-service__single--title">eccommerce Hosting</a>
+                            <a  class="rts-service__single--title">E-Commerce</a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                We develop E-Commerce portals in open source platforms such as PHP, WordPress and other platforms with custom User Interfaces ....
                             </p>
-                            <a href="wordpress-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
-                        <!-- single service end -->
                     </div>
 
                     <div class="rts-service__column">
@@ -402,26 +345,15 @@
                             <div class="rts-service__single--icon reseller__hosting">
                                 <img src="assets/images/service/resseller__hosting.svg" alt="">
                             </div>
-                            <a href="reseller-hosting.html" class="rts-service__single--title">Reseller Hosting</a>
+                            <a  class="rts-service__single--title">Motion Infographic Videos</a>
                             <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
+                                Motion Infographic Videos are the best way to tell your story to the world in a unique and high ....
                             </p>
-                            <a href="reseller-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
+
                         </div>
                         <!-- single service end -->
                         <!-- single service -->
-                        <div class="rts-service__single">
-                            <div class="rts-service__single--icon cloud__hosting">
-                                <img src="assets/images/service/cloud__hosting.svg" alt="">
-                            </div>
-                            <a href="cloud-hosting.html" class="rts-service__single--title">cloud Hosting</a>
-                            <p class="rts-service__single--excerpt">
-                                The most popular hosting plan available and comes at one of the most.
-                            </p>
-                            <a href="cloud-hosting.html" class="rts-service__single--btn">View Details <i
-                                    class="fa-regular fa-arrow-right"></i></a>
-                        </div>
+
                         <!-- single service end -->
                     </div>
 
@@ -431,141 +363,6 @@
     </section>
     <!-- OUR SERVICES END -->
 
-    <!-- DATA CENTER AREA -->
-    <div class="rts-data-center fix section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="rts-section w-790 text-center">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                        Data Centers All Around the World</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Our web hosting, WordPress hosting, and cloud hosting plans offer server
-                        locations in: USA, Germany Egypt , India, Chaina, Brazil, Canada, Russia, Australia and South
-                        Africa.
-                    </p>
-                </div>
-            </div>
-            <!-- data center content -->
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-data-center__location">
-                        <img src="assets/images/data__center.png" alt="data__center">
-                        <ul class="round-shape">
-                            <li class="one">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Canada"></span>
-                                <img src="assets/images/flag-01.svg" alt="">
-                            </li>
-                            <li class="two">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Germany"></span>
-                                <img src="assets/images/flag-02.svg" alt="">
-                            </li>
-                            <li class="three">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Russia"></span>
-                                <img src="assets/images/flag-03.svg" alt="">
-                            </li>
-                            <li class="four">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="USA"></span>
-                                <img src="assets/images/flag-04.svg" alt="">
-                            </li>
-                            <li class="five">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Egypt"></span>
-                                <img src="assets/images/flag-05.svg" alt="">
-                            </li>
-                            <li class="six">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="India"></span>
-                                <img src="assets/images/flag-06.svg" alt="">
-                            </li>
-                            <li class="seven">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="China"></span>
-                                <img src="assets/images/flag-07.svg" alt="">
-                            </li>
-                            <li class="eight">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Brazil"></span>
-                                <img src="assets/images/flag-08.svg" alt="">
-                            </li>
-                            <li class="nine">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="South Africa"></span>
-                                <img src="assets/images/flag-09.svg" alt="">
-                            </li>
-                            <li class="ten">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"
-                                      data-bs-custom-class="color-hostie" title="Australia"></span>
-                                <img src="assets/images/flag-10.svg" alt="">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="rts-shape">
-            <div class="rts-shape__one"></div>
-            <div class="rts-shape__two"></div>
-            <div class="rts-shape__three"></div>
-            <div class="rts-shape__four"></div>
-        </div>
-    </div>
-    <!-- DATA CENTER AREA END -->
-
-    <!-- FLASH SELL AREA -->
-    <section class="rts-flash-sell">
-        <div class="container">
-            <div class="rts-flash-sell__bg">
-                <div class="row align-items-center">
-                    <div class="col-lg-4">
-                        <div class="rts-flash-sell__title">
-                            <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Hosting Flash Sale
-                            </h3>
-                            <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">For a limited time,
-                                launch your website
-                                with incredible savings.
-                            </p>
-                            <a data-sal="slide-down" data-sal-delay="500" data-sal-duration="800" href="#" class="primary__btn white__bg">See Details</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 p--0">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6">
-                                <div class="single__sell">
-                                    <div class="single__sell--content">
-                                        <div class="offer">for a limited Time</div>
-                                        <div class="discount">67% Off</div>
-                                        <span>hosting</span>
-                                    </div>
-                                    <div class="single__sell--image">
-                                        <img src="assets/images/icon/cloud.svg" alt="">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="single__sell">
-                                    <div class="single__sell--content">
-                                        <div class="offer">for a limited Time</div>
-                                        <div class="discount">90% Off</div>
-                                        <span>hosting</span>
-                                    </div>
-                                    <div class="single__sell--image">
-                                        <img src="assets/images/icon/domain.svg" alt="">
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- FLASH SELL AREA END -->
-
 
     <!-- WHY CHOOSE US -->
     <section class="rts-whychoose section__padding">
@@ -574,7 +371,7 @@
                 <div class="col-lg-5 order-change">
                     <div class="rts-whychoose__content">
                         <h3 class="rts-whychoose__content--title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                            Why Choose Hostie Hosting for Your Hosting Needs
+                            Why cooperate with ROQAY
                         </h3>
 
                         <!-- single content-->
@@ -583,9 +380,8 @@
                                 <img src="assets/images/icon/speed.svg" alt="">
                             </div>
                             <div class="single__content">
-                                <h6>Up To 20xFaster Turbo</h6>
-                                <p>That means better SEO rankings, lower bounce
-                                    rates & higher conversion rates!</p>
+                                <h6>Fast performance</h6>
+                                <p>The speed in the implementation of services is something we have been keen on from the beginning to reach our customers where they want in a short time</p>
                             </div>
                         </div>
                         <!-- single content-->
@@ -594,9 +390,8 @@
                                 <img src="assets/images/icon/support.svg" alt="">
                             </div>
                             <div class="single__content">
-                                <h6>Guru Crew Support</h6>
-                                <p>Our knowledgeable and friendly support team
-                                    is available 24/7/365 to help!</p>
+                                <h6>fast technical support</h6>
+                                <p>Always ready to serve our customers and answer all questions and inquiries as quickly as possible</p>
                             </div>
                         </div>
                         <!-- single content-->
@@ -605,9 +400,8 @@
                                 <img src="assets/images/icon/money-back.svg" alt="">
                             </div>
                             <div class="single__content">
-                                <h6>Money-Back Guarantee</h6>
-                                <p>Give our high-speed hosting service a try
-                                    completely risk-free!</p>
+                                <h6>Guaranteed protection</h6>
+                                <p>We provide the highest protection methods in all the projects offered by the company, in code, server security and ssl</p>
                             </div>
                         </div>
                     </div>
@@ -626,130 +420,5 @@
         </div>
     </section>
     <!-- WHY CHOOSE US END -->
-
-    <!-- HOSTING PLAN -->
-    <section class="rts-plan section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="rts-section text-center w-560">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                        Choose Your Web Hosting Plan</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Shared hosting is the easiest, most economical way to get your website
-                        connected to the Internet so you can start building it.
-                    </p>
-                </div>
-            </div>
-            <!-- PLAN -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="rts-plan__table">
-                        <table class="table-bordered">
-                            <!-- thead -->
-                            <thead>
-                            <tr>
-                                <th class="package__left">
-                                    <img src="assets/images/pricing/pricing-image.svg" alt="">
-                                </th>
-                                <!-- package one -->
-                                <th class="package__item">
-                                    <div class="package__item__info">
-                                        <span class="package__type">Basic</span>
-                                        <span class="start">Starting at $3.75/mo*</span>
-                                        <form action="#">
-                                            <select name="select" id="select" class="price__select">
-                                                <option value="1">$3.75/mo</option>
-                                                <option value="1">$10.75/mo</option>
-                                            </select>
-                                            <button type="submit" class="primary__btn primary__bg buy__now">By
-                                                Now</button>
-                                        </form>
-                                    </div>
-                                </th>
-                                <!-- top-right-corner -->
-                                <th class="package__item">
-                                    <!-- table-title-3 -->
-                                    <div class="package__item__info">
-                                        <span class="package__type">Deluxe</span>
-                                        <span class="start">Starting at $3.75/mo*</span>
-                                        <form action="#">
-                                            <select name="select" id="select1" class="price__select">
-                                                <option value="1">$3.75/mo</option>
-                                                <option value="1">$10.75/mo</option>
-                                            </select>
-                                            <button type="submit" class="primary__btn primary__bg buy__now">By
-                                                Now</button>
-                                        </form>
-                                    </div>
-                                </th>
-                                <!-- top-right-corner -->
-                                <th class="package__item">
-                                    <div class="package__item__info">
-                                        <span class="package__type">Ultra</span>
-                                        <span class="start">Starting at $3.75/mo*</span>
-                                        <form action="#">
-                                            <select name="select" id="select2" class="price__select">
-                                                <option value="1">$3.75/mo</option>
-                                                <option value="1">$10.75/mo</option>
-                                            </select>
-                                            <button type="submit" class="primary__btn primary__bg buy__now">By
-                                                Now</button>
-                                        </form>
-                                    </div>
-                                </th>
-                            </tr>
-                            </thead>
-                            <!-- tbody -->
-                            <tbody>
-                            <!-- hardware -->
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">Websites</td>
-                                <td class="package__item">1</td>
-                                <td class="package__item">Unlimited</td>
-                                <td class="package__item">Unlimited</td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">Disk storage</td>
-                                <td class="package__item">Unlimited</td>
-                                <td class="package__item">Unlimited</td>
-                                <td class="package__item">Unlimited</td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">Bandwidth</td>
-                                <td class="package__item">Scaleable</td>
-                                <td class="package__item">Scaleable</td>
-                                <td class="package__item">Scaleable</td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">FTP users</td>
-                                <td class="package__item">6</td>
-                                <td class="package__item">27</td>
-                                <td class="package__item">Unlimited</td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">MySQL databases</td>
-                                <td class="package__item">10</td>
-                                <td class="package__item">27</td>
-                                <td class="package__item">Unlimited</td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">Free SSl certificate</td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                            </tr>
-                            <tr data-filter="hardware" class="">
-                                <td class="package__left">Free Domain for the first year</td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                                <td class="package__item"><i class="fa-regular fa-check"></i></td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- HOSTING PLAN END -->
 
 </x-layout>

@@ -4,9 +4,8 @@
         <div class="row ">
             <div class="col-12 d-flex justify-content-center">
                 <div class="rts-section w-460 text-center">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Our Customers Love Us</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">From 24/7 support that acts as your extended team to incredibly fast
-                        website performance</p>
+                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">What our customers say</h3>
+                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800"> Over 8 years working in IT services developing software applications and mobile apps for clients all over the world. </p>
                 </div>
             </div>
         </div>
@@ -132,89 +131,6 @@
     </div>
 </section>
 <!-- TESTIMONIAL END -->
-<!-- FAQ -->
-<section class="rts-faq section__padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="rts-faq__first">
-                    <h3 class="title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Got
-                        questions? Well,
-                        we've got answers.</h3>
-                    <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">From 24/7 support that
-                        acts as your extended team to incredibly fast website performance</p>
-                    <img data-sal="slide-down" data-sal-delay="500" data-sal-duration="800" src="assets/images/faq/faq.svg" alt="faq">
-                    <div class="rts-faq__first--shape">
-                        <div class="img"><img src="assets/images/faq/faq__animated.svg" alt=""></div>
-                        <div class="shape-one">domain</div>
-                        <div class="shape-two">hosting</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 offset-lg-1">
-                <div class="rts-faq__accordion">
-                    <div class="accordion accordion-flush" id="rts-accordion">
-                        <div class="accordion-item active" data-sal="slide-left" data-sal-delay="300" data-sal-duration="800">
-                            <div class="accordion-header" id="first">
-                                <h4 class="accordion-button collapse show" data-bs-toggle="collapse" data-bs-target="#item__one" aria-expanded="false" aria-controls="item__one">
-                                    Why buy a domain name from hostie?
-                                </h4>
-                            </div>
-                            <div id="item__one" class="accordion-collapse collapse collapse show" aria-labelledby="first" data-bs-parent="#rts-accordion">
-                                <div class="accordion-body">
-                                    Above all else, we strive to deliver outstanding customer experiences. When you
-                                    buy a domain name from hostie, we guarantee it will be handed over.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item" data-sal="slide-left" data-sal-delay="400" data-sal-duration="800">
-                            <div class="accordion-header" id="two">
-                                <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__two" aria-expanded="false" aria-controls="item__two">
-                                    How does domain registration work?
-                                </h4>
-                            </div>
-                            <div id="item__two" class="accordion-collapse collapse" aria-labelledby="two" data-bs-parent="#rts-accordion">
-                                <div class="accordion-body">
-                                    Above all else, we strive to deliver outstanding customer experiences. When you
-                                    buy a domain name from hostie, we guarantee it will be handed over.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item" data-sal="slide-left" data-sal-delay="500" data-sal-duration="800">
-                            <div class="accordion-header" id="three">
-                                <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
-                                    Why is domain name registration required?
-                                </h4>
-                            </div>
-                            <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
-                                <div class="accordion-body">
-                                    Above all else, we strive to deliver outstanding customer experiences. When you
-                                    buy a domain name from hostie, we guarantee it will be handed over.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item" data-sal="slide-left" data-sal-delay="600" data-sal-duration="800">
-                            <div class="accordion-header" id="four">
-                                <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four" aria-expanded="false" aria-controls="item__four">
-                                    Why is domain name registration required?
-                                </h4>
-                            </div>
-                            <div id="item__four" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#rts-accordion">
-                                <div class="accordion-body">
-                                    Above all else, we strive to deliver outstanding customer experiences. When you
-                                    buy a domain name from hostie, we guarantee it will be handed over.
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- FAQ END -->
 <!-- CTA AREA -->
 <div class="rts-cta">
     <div class="container">
@@ -222,9 +138,8 @@
             <div class="rts-cta__wrapper">
                 <div class="rts-cta__left">
                     <h3 class="cta__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                        Experience the Hostie Hosting Difference Today!</h3>
-                    <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Above all else, we strive
-                        deliver outstanding customer experiences When you buy a domain name from.</p>
+                        Designing your project with ROQAY </h3>
+                    <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">will certainly be creative, different and the reason why you are at the top of your business. </p>
                     <a data-sal="slide-down" data-sal-delay="500" data-sal-duration="800" href="#" class="primary__btn secondary__bg">get started <i class="fa-regular fa-arrow-right"></i></a>
                 </div>
                 <div class="rts-cta__right">
@@ -252,7 +167,7 @@
                     <a href="#" class="footer__logo">
                         <img src="assets/images/logo/footer__one__logo.svg" alt="">
                     </a>
-                    <p class="brand-desc">We’re on a mission make life easier for web developers & small businesses.</p>
+                    <p class="brand-desc">ROQAY is a software development company Established by the end of 2015 and scaled up over the years. specialized in websites, Web stores, mobile apps, eLearning solutions, and business applications </p>
                     <div class="separator site-default-border"></div>
                     <div class="payment__method">
                         <h5>Payment Method</h5>
