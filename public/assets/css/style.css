@@ -15085,6 +15085,9 @@ xclip
 .social__media--list {
   display: flex;
   gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
 }
 .social__media--list .media {
   height: 34px;
@@ -27277,4 +27280,8 @@ header.heder-two .sub-dropdown .submenu.third-lvl.base {
 .lang:hover{
     color: var(--color-third);
 }
+html{
+    scroll-behavior: smooth !important;
+}
+
 

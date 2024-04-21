@@ -12,7 +12,7 @@ html {
     font-size: 10px;
     overflow: hidden;
     overflow-y: auto;
-    scroll-behavior: auto !important;
+    //scroll-behavior: auto !important;
 }
 
 body {
@@ -88,7 +88,7 @@ h2,
 .h2 {
     font-size: var(--size-h2);
     @media screen and (max-width: 575px){
-      font-size: 30px;  
+      font-size: 30px;
     }
 }
 
@@ -291,7 +291,7 @@ cite,
 //         font-size: var(--font-size-b3);
 //         line-height: var(--line-height-b3);
 //     }
-    
+
 //     &.has-large-font-size {
 //         line-height: 1.5;
 //         font-size: 36px;
@@ -379,7 +379,7 @@ cite,
 // }
 
 // /*---------------------------
-// 	List Style 
+// 	List Style
 // ---------------------------*/
 // ul,
 // ol {

@@ -1,6 +1,6 @@
 <x-layout>
     <!-- HERO BANNER ONE -->
-    <section class="rts-hero rts-hero__one banner-style-home-one">
+    <section id="home" class="rts-hero rts-hero__one banner-style-home-one">
         <div class="container">
             <div class="rts-hero__blur-area"></div>
             <div class="row align-items-end position-relative">
@@ -12,7 +12,7 @@
                         <p class="description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
                             Connect with us to start your Digital Transformation Journey.</p>
                         <div class="rts-hero__content--group" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
-                            <a href="/" class="primary__btn white__bg">Get Started <i
+                            <a href="/contact" class="primary__btn white__bg">Get Started <i
                                     class="fa-regular fa-long-arrow-right"></i></a>
 
                         </div>
@@ -210,7 +210,7 @@
     <!-- HOSTING OPTION END -->
 
     <!-- ABOUT US -->
-    <div class="rts-about position-relative section__padding">
+    <div class="rts-about position-relative section__padding" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
@@ -248,7 +248,7 @@
 
 
     <!-- OUR SERVICES -->
-    <section class="rts-service section__padding">
+    <section class="rts-service section__padding" id="services">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="rts-section text-center w-530">
