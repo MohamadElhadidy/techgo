@@ -47,70 +47,9 @@
     </section>
     <!-- HERO BANNER ONE END -->
 
-    <!-- BRAND AREA -->
-    <div class="rts-brand rts-brand__bg--section pt-100 pb-120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="rts-brand__wrapper">
-                        <div class="rts-brand__slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/02.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/03.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/04.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/05.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/06.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"> <img src="assets/images/brand/07.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/08.svg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- BRAND AREA END-->
 
     <!-- HOSTING OPTION -->
-    <div class="rts-hosting-type">
+    <div class="rts-hosting-type pt-100 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -225,7 +164,7 @@
                         <h3 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Curious To Know us?
                         </h3>
                         <p class="description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
-                            ROQAY is a software development company Established by the end of 2015 and scaled up over the years. specialized in web sites, Web stores, mobile apps, eLearning solutions, and business applications. We’re experts at what we do, software development is our game.
+                            GoTech is a software development company. specialized in websites, Web stores, mobile apps, eLearning solutions, and business applications. We’re experts at what we do, software development is our game.
                         </p>
                         <div class="rts-about__content--single" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
                             <div class="image">
@@ -322,7 +261,7 @@
                             </div>
                             <a  class="rts-service__single--title">E-Learning & Gamification</a>
                             <p class="rts-service__single--excerpt">
-                                At ROQAY, we believe that Education is the key to our future success and the progress of all nations, ....
+                                At GoTech, we believe that Education is the key to our future success and the progress of all nations, ....
                             </p>
 
                         </div>
@@ -371,7 +310,7 @@
                 <div class="col-lg-5 order-change">
                     <div class="rts-whychoose__content">
                         <h3 class="rts-whychoose__content--title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                            Why cooperate with ROQAY
+                            Why cooperate with GoTech
                         </h3>
 
                         <!-- single content-->

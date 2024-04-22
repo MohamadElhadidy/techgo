@@ -138,7 +138,7 @@
             <div class="rts-cta__wrapper">
                 <div class="rts-cta__left">
                     <h3 class="cta__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                        Designing your project with ROQAY </h3>
+                        Designing your project with GoTech </h3>
                     <p data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">will certainly be creative, different and the reason why you are at the top of your business. </p>
                     <a data-sal="slide-down" data-sal-delay="500" data-sal-duration="800" href="/contact" class="primary__btn secondary__bg">get started <i class="fa-regular fa-arrow-right"></i></a>
                 </div>
